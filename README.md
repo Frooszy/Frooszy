@@ -2,7 +2,7 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=frooszy&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Atualmente, aprendendo
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />

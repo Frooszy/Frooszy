@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/frooszy/frooszy/blob/main/images/illustration.png" width="400">
+<img align="right" src="https://github.com/frooszy/frooszy/blob/main/images/illustration.png" width="300">
 
 ### Hello, I'm João Vitor 👋
 

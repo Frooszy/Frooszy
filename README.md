@@ -4,7 +4,7 @@
 
 I'm a full stack developer who is passionate about coding and always eager to improve my skills. I'm constantly learning and enhancing my knowledge to become a better developer.
 
-- 📕 Learning NextJS, NestJS, Typescript, Node.js and PostgreSQL
+- 📕 Learning NextJS, NestJS, Typescript, Node.js, .NET and PostgreSQL
 - 💻 Developing innovative solutions
 
 "Knowledge will bring you the opportunity to make a difference." - Claire Fagin

@@ -2,9 +2,9 @@
 
 ### Hello, I'm João Vitor 👋
 
-I'm a full stack developer who is passionate about coding and always eager to improve my skills. I'm constantly learning and enhancing my knowledge to become a better developer.
+I'm a backend developer who is passionate about coding and always eager to improve my skills. I'm constantly learning and enhancing my knowledge to become a better developer.
 
-- 📕 Learning NextJS, NestJS, Typescript, C#, Node.js, .NET and PostgreSQL
+- 📕 Learning C#, .NET, NestJS, Typescript, Node.js and PostgreSQL
 - 💻 Developing innovative solutions
 
 "Knowledge will bring you the opportunity to make a difference." - Claire Fagin
